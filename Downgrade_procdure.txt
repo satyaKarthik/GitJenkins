@@ -1,1 +1,2 @@
-1) use the revert process which was used to do 
+1) use the revert process which was used to do
+2) use specific tool for the downgrade operation based on the installed software
