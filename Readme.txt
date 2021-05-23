@@ -5,3 +5,5 @@
 5) Almost done
 6) adding 2nd set of code
 7) this is the second line in the 2nd set of code
+8) added 8th line to the project
+
