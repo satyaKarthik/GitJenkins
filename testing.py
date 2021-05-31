@@ -16,6 +16,10 @@ def div(a,b):
     else:
         return a//b
 
+def lcm(a,b):
+    c=a**b
+    return c
+
 
 
 
